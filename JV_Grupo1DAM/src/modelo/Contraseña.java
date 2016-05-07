@@ -5,9 +5,6 @@
  * Contraseña.java
  */
 
-
-//Esto es una prueba.
-
 package modelo;
 
 import util.*;
