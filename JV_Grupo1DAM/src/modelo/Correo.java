@@ -3,6 +3,7 @@
  * Implementación de la nueva clase Correo según el modelo2.
  * Encapsulación y herencia básica (agregación, composición y especialización).
  * Correo.java
+ * Fran
  */
 
 package modelo;
